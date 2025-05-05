@@ -10,22 +10,22 @@ Bu proje, diyetle ilgili soru-cevap verilerini embedding (vektörleştirme) form
 - **Embeddings (JSON formatında)**: Vektör çıktıları daha sonra kullanılabilmek üzere '.json' formatında saklanır. Bu format, sistemler arası veri alışverişi için uygundur.
 
 ## Proje Yapısı
-
+```
 Diet Agent/
-├── data/ # Girdi veri dosyaları
-│ └── diet_dataset.json # Diyetle ilgili soru-cevap verisi
+├── data/                        # Girdi veri dosyaları
+│   └── diet_dataset.json         # Diyetle ilgili soru-cevap verisi
 │
-├── embeddings/ # Embed edilmiş sonuçlar
-│ └── diet_embeddings.json # Vektörleştirilmiş soru-cevap verisi
+├── embeddings/                   # Embed edilmiş sonuçlar
+│   └── diet_embeddings.json     # Vektörleştirilmiş soru-cevap verisi
 │
-├── main/ # Uygulama akışını yürüten dosyalar
-│ ├── embedder.py # Embedding işlemini yöneten sınıf
+├── main/                         # Uygulama akışını yürüten dosyalar
+│   ├── embedder.py               # Embedding işlemini yöneten sınıf
 │
-├── models/ # Model sınıfları ve yardımcı modüller
-│ └── embedding_model.py # Modeli bağımsız yüklemek ve kullanmak için sınıf
+├── models/                       # Model sınıfları ve yardımcı modüller
+│   └── embedding_model.py        # Modeli bağımsız yüklemek ve kullanmak için sınıf
 │
-├── README.md # Projeye dair açıklamalar
-
+├── README.md   
+```
 
 
 - Model olarak all-MiniLM-L6-v2 seçilmesinin nedeni, hem hızlı hem de çok güçlü sonuçlar vermesidir.
