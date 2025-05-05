@@ -1,4 +1,4 @@
- - Diet Agent - 
+ - Diet Agent 
 
 Bu proje, diyetle ilgili soru-cevap verilerini embedding (vektörleştirme) formatına  dönüştürerek daha sonra benzerlik 
 karşılaştırmaları ya da bilgi sorgulamaları için kullanılabilir hale getirir.
@@ -27,7 +27,7 @@ karşılaştırmaları ya da bilgi sorgulamaları için kullanılabilir hale get
 │   └── embedding_model.py
 │
 ├── README.md
-└── 
+
 
 
 - Model olarak all-MiniLM-L6-v2 seçilmesinin nedeni, hem hızlı hem de çok güçlü sonuçlar vermesidir.
