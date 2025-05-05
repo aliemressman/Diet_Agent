@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "Soru": "Gluten intoleransı olanlar ne tür tahıllar tüketebilir?",
+        "Cevap": "Gluten intoleransı olanlar için uygun tahıllar: pirinç, mısır, kuş yemi, çiltli arpa, buğdayın yerine kullanılabilecek gluten-free quinoa ve kabakulak içerir.",
+        "Kategori": "Diyet Kısıtlamaları",
+        "Diyet_Kısıtlaması": "Gluten-Free"
+    },
+    {
+        "id": 2,
+        "Soru": "Vegan bir diyetle hangi protein kaynaklarını kullanabilirim?",
+        "Cevap": "Vegan diyetlerde proteini soya ürünleri (tofu, tempeh), mercimek, nohut, fasulye, kinoa, çinkıl, keten tohumu ve vegan proteini takviyeleriyle karşılayabilirsiniz.",
+        "Kategori": "Bitkisel Beslenme",
+        "Diyet_Kısıtlaması": "Vegan"
+    },
+    {
+        "id": 3,
+        "Soru": "Kilo verirken kaç kalori tüketmeliyim?",
+        "Cevap": "Kilo vermek için günlük kalori ihtiyacınızdan %15-20 az tüketmelisiniz. Örneğin günlük ihtiyacınız 2000 kaloriyse, 1600-1700 kalori almanız ideal olur.",
+        "Kategori": "Kilo Yönetimi",
+        "Diyet_Kısıtlaması": "Kilo Verme"
+    },
+    {
+        "id": 4,
+        "Soru": "Diabet hastaları için sağlıklı kahvaltılık öneriler nelerdir?",
+        "Cevap": "Diabet için önerilen kahvaltılar: yulaf ezmesi (şeker eklenmeden), tam buğday ekmeği, avokado, yumurta, gri mercimekli omlet, low-fat yoğurt ve yağsız peynir.",
+        "Kategori": "Hastalıklara Özel Beslenme",
+        "Diyet_Kısıtlaması": "Düşük GL"
+    },
+    {
+        "id": 5,
+        "Soru": "Keto diyetinde hangi sebzeler tüketilebilir?",
+        "Cevap": "Keto diyetinde düşük karbonhidratlı sebzeler tercih edilmelidir: brokoli, ıspanak, marul, salatalık, kabak, zeytin, mantar, yeşil biber ve lahana.",
+        "Kategori": "Özel Diyetler",
+        "Diyet_Kısıtlaması": "Keto"
+    },
+    {
+        "id": 6,
+        "Soru": "Hamilelikte hangi vitaminler gereklidir?",
+        "Cevap": "Hamilelikte folik asit, B12 vitamini, demir, kalsiyum ve D vitamini önemlidir. Folik asit için yeşil yapraklı sebzeler, B12 için hayvansal ürünler tüketilmelidir.",
+        "Kategori": "Hamilelik ve Emzirme",
+        "Diyet_Kısıtlaması": "Genel"
+    },
+    {
+        "id": 7,
+        "Soru": "Sindirim sistemini destekleyen besinler nelerdir?",
+        "Cevap": "Sindirimi kolaylaştıran besinler: lifli sebzeler (brokoli, ıspanak), meyveler (elma, muz), probiyotik içeren yoğurt, hindistan cevizi yağı ve bol su tüketimi.",
+        "Kategori": "Sindirim Sağlığı",
+        "Diyet_Kısıtlaması": "Genel"
+    },
+    {
+        "id": 8,
+        "Soru": "Vegan diyetlerde D vitamini eksikliği nasıl önlenir?",
+        "Cevap": "Veganlar için D vitamini kaynakları: güneşe maruz kalmak, D vitamini takviyeleri (bitkisel kaynaklı) ve D vitaminiyle zenginleştirilmiş bitkisel sütler.",
+        "Kategori": "Bitkisel Beslenme",
+        "Diyet_Kısıtlaması": "Vegan"
+    },
+    {
+        "id": 9,
+        "Soru": "Yoğun egzersiz yapanlar ne zaman ne yerse iyi olur?",
+        "Cevap": "Egzersiz öncesi: kompleks karbonhidratlar (tam buğday ekmeği, yulaf), egzersiz sonrası: protein (yumurta, tofu) + basit karbonhidratlar (muz, pirinç).",
+        "Kategori": "Sporcu Beslenmesi",
+        "Diyet_Kısıtlaması": "Genel"
+    },
+    {
+        "id": 10,
+        "Soru": "Kabızlık için hangi besinler faydalıdır?",
+        "Cevap": "Kabızlık için lifli gıdalar (kırmızı mercimek, elma, armut), bol su, probiyotik yoğurt, zencefil çayı ve bol lifli tam tahıllar tüketilmelidir.",
+        "Kategori": "Sindirim Sağlığı",
+        "Diyet_Kısıtlaması": "Genel"
+    },
+    {
+        "id": 11,
+        "Soru": "Gluten-free ürünlerde dikkat edilmesi gerekenler nelerdir?",
+        "Cevap": "Gluten-free ürünlerde katkı maddeleri, lif içeriği ve glikemik indeksi kontrol edilmelidir. Doğal gluten-free gıdalar (pirinç, patates unu) tercih edilmelidir.",
+        "Kategori": "Diyet Kısıtlamaları",
+        "Diyet_Kısıtlaması": "Gluten-Free"
+    },
+    {
+        "id": 12,
+        "Soru": "Keto diyetinde hangi meyveler tüketilebilir?",
+        "Cevap": "Keto diyetinde düşük karbonhidratlı meyveler tercih edilmelidir: ahududu, çilek, avokado, zeytin ve küçük miktarlarda böğürtlen.",
+        "Kategori": "Özel Diyetler",
+        "Diyet_Kısıtlaması": "Keto"
+    },
+    {
+        "id": 13,
+        "Soru": "Vegan diyetlerde kalsiyum eksikliği nasıl önlenir?",
+        "Cevap": "Veganlar için kalsiyum kaynakları: brokoli, pazı, enginar, kinoa, badem sütü ve kalsiyumla zenginleştirilmiş bitkisel ürünler.",
+        "Kategori": "Bitkisel Beslenme",
+        "Diyet_Kısıtlaması": "Vegan"
+    },
+    {
+        "id": 14,
+        "Soru": "Düşük tansiyon için hangi gıdalar faydalıdır?",
+        "Cevap": "Düşük tansiyon için tuz oranı yüksek gıdalar (zeytin, peynir), potasyum içeren meyveler (muz, kivi), bol sıvı ve enerji verici tahıllar tüketilmelidir.",
+        "Kategori": "Hastalıklara Özel Beslenme",
+        "Diyet_Kısıtlaması": "Düşük Tuzlu"
+    },
+    {
+        "id": 15,
+        "Soru": "Gastroenterit sırasında hangi gıdalar tüketilmelidir?",
+        "Cevap": "Gastroenterit sırasında sindirimi kolay gıdalar: banane, pilav, elma püresi, yoğurt, ekmek kavrulmuş ve bol sıvı tüketilmelidir.",
+        "Kategori": "Hastalıklara Özel Beslenme",
+        "Diyet_Kısıtlaması": "Kolay Sindirilen"
+    },
+    {
+        "id": 16,
+        "Soru": "Kilo alırken hangi besinleri tercih etmeliyim?",
+        "Cevap": "Kilo almak için kalorisi yüksek, sağlıklı yağ içeren besinler: avokado, ceviz, badem, zeytinyağı, tam tahıllar ve protein ağırlıklı gıdalar tüketilmelidir.",
+        "Kategori": "Kilo Yönetimi",
+        "Diyet_Kısıtlaması": "Kilo Alma"
+    },
+    {
+        "id": 17,
+        "Soru": "Diyabet için tatlandırıcı olarak ne kullanılabilir?",
+        "Cevap": "Diyabet için güvenli tatlandırıcılar: stevia, eritritol, sukraloz ve aspartam. Ancak doz kontrolüne dikkat edilmelidir.",
+        "Kategori": "Hastalıklara Özel Beslenme",
+        "Diyet_Kısıtlaması": "Düşük GL"
+    },
+    {
+        "id": 18,
+        "Soru": "Vegan diyetlerde omega-3 kaynağı nedir?",
+        "Cevap": "Vegan omega-3 kaynakları: keten tohumu, chia tohumu, ceviz, yaban mersini ve algalardan üretilen DHA takviyeleridir.",
+        "Kategori": "Bitkisel Beslenme",
+        "Diyet_Kısıtlaması": "Vegan"
+    },
+    {
+        "id": 19,
+        "Soru": "Yoğun stres dönemlerinde hangi besinler faydalıdır?",
+        "Cevap": "Stresi azaltan besinler: magnezyum içeren gıdalar (kabak, badem), B vitaminleri (tam tahıllar), omega-3 kaynakları ve antioksidan zengini meyveler.",
+        "Kategori": "Genel Beslenme",
+        "Diyet_Kısıtlaması": "Genel"
+    },
+    {
+        "id": 20,
+        "Soru": "Düşük tuzlu diyet uygularken hangi baharatlar tercih edilmelidir?",
+        "Cevap": "Düşük tuzlu diyetlerde tarçın, kimyon, zerdeçal, kişniş, nane ve limon suyu gibi doğal baharatlar tercih edilmelidir.",
+        "Kategori": "Hastalıklara Özel Beslenme",
+        "Diyet_Kısıtlaması": "Düşük Tuzlu"
+    }
+]
